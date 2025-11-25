@@ -105,10 +105,6 @@ InventoryManagementSystem/
 │   │   └── ProductDialog.java   # Диалоговое окно товара
 │   └── css/
 │       └── styles.css           # Стили оформления
-├── lib/                         # Внешние библиотеки (JavaFX)
-├── data/                        # Папка для хранения данных
-│   └── example_inventory.csv    # Пример файла с данными
-├── docs/                        # Документация
 ├── README.md                    # Этот файл
 └── LICENSE                      # Лицензия проекта
 ```
@@ -137,8 +133,8 @@ InventoryManagementSystem/
 
 ### Основной разработчик:
 **Асатрян Альберт Андраникович**
-- 📧 **Email:** "AsatryanAA23@rostov-don.ithub.ru"
-- 🎯 **Роли:** 
+- **Email:** "AsatryanAA23@rostov-don.ithub.ru"
+- **Роли:** 
   - Архитектор системы
   - Full-stack разработчик
   - Тестировщик
