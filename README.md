@@ -105,6 +105,7 @@ InventoryManagementSystem/
 │   │   └── ProductDialog.java   # Диалоговое окно товара
 │   └── css/
 │       └── styles.css           # Стили оформления
+├── testing                      # Содержит в себе различную тест информацию
 ├── README.md                    # Этот файл
 └── LICENSE                      # Лицензия проекта
 ```
@@ -155,6 +156,11 @@ InventoryManagementSystem/
 - **Репозиторий проекта:** https://github.com/Albert-css/Inventory-Management-System
 - **Вопросы по установке:** "AsatryanAA23@rostov-don.ithub.ru"
 - **Техническая поддержка:** "AsatryanAA23@rostov-don.ithub.ru"
+
+##Тестирование
+
+Переодически проводится тестировка продукта, следящие за проектом могут получить доступ к пользовательскому тестированию.
+Вся информация по тестированию проекта находится в папке testing проекта
 
 ---
 
